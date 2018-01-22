@@ -1,0 +1,9 @@
+paste folder into push_to_github
+
+git remote add origin1 https://github.com/priya-dwivedi/cs224n-stanford.git
+
+git add --all
+
+git commit -m "first assignment"
+
+git push -f origin1 master
